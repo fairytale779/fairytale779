@@ -43,7 +43,6 @@
 <img src="https://img.shields.io/badge/React_Router-5A29E4?style=for-the-badge&logo=React Router&logoColor=white">
 <img src="https://img.shields.io/badge/Zustand-004008?style=for-the-badge&logo=Zustand&logoColor=white"> <br>
   
-<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/Adobe_llustrator-FF9A00?style=for-the-badge&logo=Adobe Illustrator&logoColor=white"> 
 <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white"><br>
