@@ -10,7 +10,6 @@
 
 <a href="https://www.instagram.com/fairytale779_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/profile.php?id=100011311354653" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
-<a href="https://velog.io/@fairytale779" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
   
    <br>
   <br>
@@ -23,7 +22,6 @@
   <br>
   
   반갑습니다 홍동화라고 합니다 👐 <br>🏻
-  그래픽 디자이너로 일하다가 프론트엔드를 공부하고 있습니다! 🧚🏻‍♀️
   
  
   <br>
