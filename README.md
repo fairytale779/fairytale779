@@ -15,16 +15,11 @@
   <br>
   
   ### 💌 E-MAIL
-  hhhhong44@gmail.com
+  hongzoeeee@gmail.com
   
   <br>
   <br>
-  <br>
-  
-  반갑습니다 홍동화라고 합니다 👐 <br>🏻
-  
- 
-  <br>
+
   <br>
   <br>
   <br>
